@@ -1,0 +1,33 @@
+title: porter
+email: ""
+description: >-
+  GPU driver optimisation, program porting, and running SteamOS on PS5.
+baseurl: ""
+url: "https://naveentk1.github.io"
+author: naveentk1
+
+theme: minima
+minima:
+  skin: dark
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .git

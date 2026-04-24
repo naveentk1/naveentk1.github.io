@@ -1,0 +1,45 @@
+---
+---
+
+@import "minima";
+
+:root {
+  --background-color: #1a1a1a;
+  --text-color: #d4d4d4;
+  --link-color: #79b8ff;
+  --border-color: #333;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #d4d4d4;
+}
+
+a { color: #79b8ff; }
+a:visited { color: #b392f0; }
+
+.site-header {
+  background-color: #111;
+  border-top: 4px solid #444;
+  border-bottom: 1px solid #333;
+}
+
+.site-title, .site-title:visited { color: #fff; }
+.site-nav .page-link { color: #d4d4d4; }
+
+.post-link { color: #79b8ff; }
+.post-meta { color: #888; }
+
+.site-footer {
+  background-color: #111;
+  border-top: 1px solid #333;
+  color: #888;
+}
+
+.footer-col { color: #888; }
+
+pre, code {
+  background-color: #2d2d2d;
+  color: #d4d4d4;
+  border: 1px solid #444;
+}

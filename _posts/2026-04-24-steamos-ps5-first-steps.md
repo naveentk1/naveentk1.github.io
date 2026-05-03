@@ -5,7 +5,7 @@ date: 2026-04-24
 categories: steamos ps5
 ---
 
-The PS5 ships with a custom AMD GPU — the Oberon SoC — and while it's locked down at the firmware level, the underlying hardware is close enough to a PC AMD GPU that it's worth trying to get a real Linux stack running on it.
+[this is an ai generated file made for the sole purpose of being an template or a place holder] The PS5 ships with a custom AMD GPU — the Oberon SoC — and while it's locked down at the firmware level, the underlying hardware is close enough to a PC AMD GPU that it's worth trying to get a real Linux stack running on it.
 
 This post documents my first steps toward booting SteamOS on PS5 hardware.
 

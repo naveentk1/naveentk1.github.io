@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting SteamOS to Boot on PS5: First Steps"
+title: [PLACEHOLDER]"Getting SteamOS to Boot on PS5: First Steps"
 date: 2026-04-24
 categories: steamos ps5
 ---

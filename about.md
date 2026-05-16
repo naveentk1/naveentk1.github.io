@@ -15,3 +15,8 @@ Topics I cover:
 - **SteamOS on PS5** — documenting the journey of running Valve's gaming OS on PlayStation 5 hardware
 
 If you're into hacking hardware, kernel drivers, or just curious about what runs under the hood of your GPU, you're in the right place.
+
+Contact:
+
+- **mail**       - naveentk325@gmail.com
+- **X(Twitter)** - libgod1
